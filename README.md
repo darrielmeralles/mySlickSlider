@@ -1,0 +1,2 @@
+# mySlickSlider
+Slick Slider Test
